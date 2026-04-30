@@ -1,5 +1,10 @@
 ## Before the Session — What to Set Up
 
+
+## CC - Test
+
+Test-CC
+
 Please complete these steps **before class**. It should take about 20–30 minutes. If you run into trouble, reach out to your instructor.
 
 ---
