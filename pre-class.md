@@ -5,6 +5,8 @@
 
 Test-CC
 
+fork from ntu repo
+
 Please complete these steps **before class**. It should take about 20–30 minutes. If you run into trouble, reach out to your instructor.
 
 ---
