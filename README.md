@@ -5,6 +5,8 @@
 **Platforms:** Mac or Windows  
 **Goal:** Build confidence using Git and GitHub to save and share your work — no coding experience needed
 
+# this is my remarks from kentz
+
 ---
 
 ## LEARNING OBJECTIVES
